@@ -1,1 +1,1 @@
-Svelte tutorial from traversy media Youtube channel
+#Svelte tutorial from traversy media Youtube channel
